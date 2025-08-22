@@ -1,6 +1,6 @@
 <div align="center">
  <br />
-<img width="150" height="250" alt="ChatGPT Image Aug 22, 2025, 08_20_20 PM" src="https://github.com/user-attachments/assets/98438369-7a04-4c9f-8788-af5d8bd652ee" />
+<img width="650" height="250" alt="ChatGPT Image Aug 22, 2025, 08_20_20 PM" src="https://github.com/user-attachments/assets/98438369-7a04-4c9f-8788-af5d8bd652ee" />
  <br />
   
   <div>
@@ -1594,4 +1594,5 @@ export const Category = ({ category }: CategoryProps) => {
 ## <a name="links">🔗 Links</a>
 
  The project can be found [here]()
+
 
