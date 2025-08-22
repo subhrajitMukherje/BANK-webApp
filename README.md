@@ -73,8 +73,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/banking.git
-cd banking
+https://github.com/subhrajitMukherje/BANK-webApp.git
+cd BANK-webApp
 ```
 
 **Installation**
@@ -1595,6 +1595,7 @@ export const Category = ({ category }: CategoryProps) => {
 ## <a name="links">🔗 Links</a>
 
  The project can be found [here]()
+
 
 
 
