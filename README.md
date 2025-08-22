@@ -14,7 +14,7 @@
      Secure and modern banking web app built with Next.js, Appwrite, TypeScript, and Tailwind CSS for a seamless digital finance experience
     </div>
 </div>
-##  📋 <a name="table">Table of Contents</a>
+## <a name="table">📋 Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
@@ -1594,6 +1594,7 @@ export const Category = ({ category }: CategoryProps) => {
 ## <a name="links">🔗 Links</a>
 
  The project can be found [here]()
+
 
 
 
